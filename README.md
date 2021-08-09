@@ -10,4 +10,10 @@ Aquí subiré todo el código que realice mientras aprendo a programar en Python
 
 ### 05/08/2021
 * Añadidos apuntes y comentarios sobre funciones
-* Comenzando a hacer apuntes y comentarios sobre arrays
+* Añadidos apuntes y comentarios sobre arrays
+
+
+### 09/08/2021
+* Añadidos apuntes y comentarios sobre tuplas
+
+## Finalizada Sintaxis Básica
