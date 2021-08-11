@@ -28,14 +28,6 @@ esta es la 3"""
 print(frase) # Con un string con 3 comillas se puede escribir en diferentes líneas y se guarda tal cual
 
 
-# CONDICIONALES :
-
-if 2 > 1: # Así se hace un if, usando identación
-    print("2 es mayor que 1")
-else:
-    print("1 es mayor que 2")
-
-
 # FUNCIONES :
 # Así defino una función, después con identación establezco todas las instrucciones que quiero que tenga
 def primeraFuncion():

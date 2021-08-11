@@ -17,3 +17,10 @@ Aquí subiré todo el código que realice mientras aprendo a programar en Python
 * Añadidos apuntes y comentarios sobre tuplas
 
 ## Finalizada Sintaxis Básica
+
+
+## Inicio de Condicionales
+
+### 11/08/2021
+* Creado nuevo archivo para la parte de Condicionales
+* Añadidos apuntes sobre el 1er vídeo de condicionales
